@@ -31,6 +31,6 @@ We make an exploratory analysis of the data based on the following viewpoints:
 
 **Team Members**
 - [Dipro Mondal](https://github.com/DiproMondal)
-- [Abdullah Mamun](https://github.com/mamun-av)
+- [Abdulla Mamun](https://github.com/mamun-av)
 - [Oanh Nguyen](https://github.com/oanhyenn)
 - [Marufa Akhter](https://github.com/MarufaAkhter)
