@@ -14,7 +14,7 @@ The tools that we use are:
 - Plotly (for visualization)
 - Matplotlib (for visualization)
 
-Original dataset: https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop/code
+[Original dataset](https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop/code)
 
 **About dataset**
 
