@@ -30,7 +30,7 @@ We make an exploratory analysis of the data based on the following viewpoints:
 - Brands
 
 **Team Members**
-- [Dipro Mondol] (https://github.com/DiproMondal)
-- [Abdullah Mamun] (https://github.com/mamun-av)
-- [Oanh Nguyen] (https://github.com/oanhyenn)
-- [Marufa Akhter] (https://github.com/MarufaAkhter)
+- [Dipro Mondal](https://github.com/DiproMondal)
+- [Abdullah Mamun](https://github.com/mamun-av)
+- [Oanh Nguyen](https://github.com/oanhyenn)
+- [Marufa Akhter](https://github.com/MarufaAkhter)
